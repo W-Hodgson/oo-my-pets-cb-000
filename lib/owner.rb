@@ -7,4 +7,8 @@ class Owner
     @name = name
   end
 
+  def say_species
+
+  end
+
 end
